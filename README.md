@@ -7,15 +7,6 @@ Use of this COVID-19 self-checker algorithm and associated files does not imply 
 
 This COVID-19 self-checker algorithm was originally developed by CDC for use as an interactive “bot” experience. CDC does not guarantee the accuracy of any non-U.S. Government version(s) of a COVID-19 self-checker algorithm. The U.S. Government does not make any warranty of any kind, either expressed or implied, for any non-U.S. Government version of the COVID-19 self-checker algorithm . Use by a non-U.S. Government organization or enterprise does not imply a U.S. Government endorsement of any one particular product, service, or enterprise or that this use of the COVID-19 self-checker algorithm represents the official views of the U.S. Government.
 
-## Getting Started
-
-1. Create a Microsoft Health Bot via the [Microsoft Health Bot Admin portal](https://admin.healthbot.microsoft.com/)
-2. Configure the bot according to [Microsoft Health Bot documentation](https://docs.microsoft.com/en-us/HealthBot/)
-3. Import the Covid-19 Protocol.json file from this repository to the Microsoft Health Bot
-4. Open that health bot and click "run".
-
-You should now have a health-bot that behaves the same way CDC's does, but it is your copy so you can start to modify it.
-
 ## Public Domain Standard Notice
 
 This repository constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. This repository is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication.](https://creativecommons.org/publicdomain/zero/1.0/) All contributions to this repository will be released under the CC0 dedication. By submitting a pull request you are agreeing to comply with this waiver of copyright interest.
