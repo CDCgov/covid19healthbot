@@ -17,7 +17,7 @@ This list is subject to change. Pull requests are welcome from organizations wit
 * [COVID-19 Protocol](./screening_protocols/covid_19_protocol.json) - definition file for protocol used with [CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) 
   * [COVID-19 Content and Messages](./screening_protocols/covid_19_protocol_content_and_messages.pdf) - provides all content in the online tool. Includes all questions, logic, and provided messages.
   * [COVID-19 Algorithm](./screening_protocols/covid_19_protocol_algorithm.pdf) - provides a flowchart / logic diagram of the tool.
-* [COVID-19 Screening Protocol](./screening_protocols/covid_19_protocol_algorithm.pdf) - visual description of the protocol used for [coronavirus.gov screening tool](https://www.coronavirus.gov/).
+* [COVID-19 Screening Protocol](./screening_protocols/covid_19_screening_protocol_cdc_apple.pdf) - visual description of the protocol used for [coronavirus.gov screening tool](https://www.coronavirus.gov/).
 
 ## Public Domain Standard Notice
 
