@@ -19,6 +19,7 @@ This list is subject to change. Pull requests are welcome from organizations wit
   * [COVID-19 CDC Wrapper](./screening_protocols/covid_19_cdc_wrapper.json) - definition file for the CDC specific questions, including disclaimer and US location
   * [COVID-19 Content and Messages](./screening_protocols/covid_19_protocol_content_and_messages.pdf) - provides all content in the online tool. Includes all questions, logic, and provided messages.
   * [COVID-19 Algorithm](./screening_protocols/covid_19_protocol_algorithm.pdf) - provides a flowchart / logic diagram of the tool.
+  * [Customizing the Self-Checker](https://github.com/CDCgov/covid19healthbot/wiki) - shows how to customize the outcome message in the core protocol, as well as leverage the core protocol conversation data in a wrapping scenario
 * [COVID-19 Screening Protocol](./screening_protocols/covid_19_screening_protocol_cdc_apple.pdf) - visual description of the protocol used for [coronavirus.gov screening tool](https://www.coronavirus.gov/).
 
 ## Public Domain Standard Notice
