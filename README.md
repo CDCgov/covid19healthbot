@@ -10,6 +10,8 @@ Use of these algorithms and associated files does not imply a CDC endorsement of
 
 ```This COVID-19 self-checker algorithm was originally developed by CDC for use as an interactive “bot” experience. CDC does not guarantee the accuracy of any non-U.S. Government version(s) of a COVID-19 self-checker algorithm. The U.S. Government does not make any warranty of any kind, either expressed or implied, for any non-U.S. Government version of the COVID-19 self-checker algorithm . Use by a non-U.S. Government organization or enterprise does not imply a U.S. Government endorsement of any one particular product, service, or enterprise or that this use of the COVID-19 self-checker algorithm represents the official views of the U.S. Government.```
 
+**Click on the Watch button above to subscribe to updates**
+
 ## List of Screening Protocols
 
 This list is subject to change. Pull requests are welcome from organizations with additional tools implementing CDC protocols that may be useful to capture here:
