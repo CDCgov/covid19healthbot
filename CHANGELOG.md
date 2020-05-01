@@ -1,4 +1,29 @@
 # Changelog
+## 2020-05-01
+### Added
+Algorithm:
+  - Asymptomatic flow 
+    - Includes a specific question on healthcare worker use of personal protective equipment
+    - New care messages for this flow
+  - Question on the quality of the users’ breathing 
+  - Messages with information about COVID-19 testing 
+  - Age stratification (≥64 and 65+) on care messages
+  
+Scenarios:
+  - Data dictionary and consistent indexing for answer choices
+  - Added an "Outcome" block for each path that sends a custom log event with the answers for each question and the corresponding index from the data dictionary
+
+### Changed
+Algorithm: 
+  -	Consolidated care messages related to seeking immediate medical attention: call 911; go to the emergency department 
+  - Updated symptom-related questions 
+  -	Updated care messages
+
+Scenarios:
+  - Split English and Non-English into two separate scenarios for both the wrapper and core scenario
+
+### Fixed
+- State health department website links for Virginia, Rhode Island and Arkansas
 
 ## 2020-04-10
 ### Changed
