@@ -1,5 +1,9 @@
 # Changelog
 ## 2020-05-01
+### Changed
+- Update to symptoms logic
+
+## 2020-05-01
 ### Added
 Algorithm:
   - Asymptomatic flow 
