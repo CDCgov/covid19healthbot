@@ -1,4 +1,11 @@
 # Changelog
+## 2020-05-06
+### Changed
+- Removed custom scenario localization and switched to using Microsoft Health Bot built-in localization tool
+
+### Added
+- Localization strings spreadsheet to import into health bot instance for all scenarios
+
 ## 2020-05-01
 ### Changed
 - Update to symptoms logic
