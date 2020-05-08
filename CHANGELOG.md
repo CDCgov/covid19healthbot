@@ -1,4 +1,9 @@
 # Changelog
+## 2020-05-08
+### Changed
+- Updated both non-English scenarios, wrapper and core, to version 58 (latest version)
+- Updated localization string spreadsheet to include strings for non-English languages for version 58
+
 ## 2020-05-06
 ### Changed
 - Removed custom scenario localization and switched to using Microsoft Health Bot built-in localization tool
