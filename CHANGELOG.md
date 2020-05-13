@@ -1,4 +1,9 @@
 # Changelog
+## 2020-05-13
+### Changed
+- Age question answer options are now shown as a dropdown list instead of individual buttons
+- If user fails to answer US State question 3x, show message 0 and stop scenario
+
 ## 2020-05-08
 ### Changed
 - Updated both non-English scenarios, wrapper and core, to version 58 (latest version)
