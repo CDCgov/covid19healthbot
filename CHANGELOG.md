@@ -1,4 +1,14 @@
 # Changelog
+## 2020-06-05
+### Changed
+- Removed pediatric flow <18 years old
+- Updated exposure question to remove "area where COVID is widespread"
+- Updated symptoms question
+- Updated COVID-19 testing messages and logic 
+- Plain language updates, streamlined decision tree and updated care messages
+- Consolidated questions for life threating emergency
+
+
 ## 2020-05-13
 ### Changed
 - Age question answer options are now shown as a dropdown list instead of individual buttons
