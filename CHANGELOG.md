@@ -1,4 +1,9 @@
 # Changelog
+## 2020-06-08
+### Changed
+- Updated COVID-19 testing message to include HHS website to locate nearby testing centers.
+
+
 ## 2020-06-05
 ### Changed
 - Removed pediatric flow <18 years old
