@@ -1,4 +1,10 @@
 # Changelog
+
+## 2020-07-15
+### Changed
+
+· Updated underlying conditions that increase risk of severe COVID-19 illness.
+
 ## 2020-06-08
 ### Changed
 - Updated COVID-19 testing message to include HHS website to locate nearby testing centers.
