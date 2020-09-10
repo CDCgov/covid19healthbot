@@ -1,5 +1,15 @@
 # Changelog
 
+## 2020-09-10
+ 
+### Changed
+
+-	Added pediatric flow for ages 2 to 17 years
+-	Includes specific questions for pediatric age groups and settings
+- Updated COVID-19 testing and care messages and logic
+-	Plain language updates
+
+
 ## 2020-07-15
 ### Changed
 
