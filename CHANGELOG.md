@@ -1,5 +1,19 @@
 # Changelog
 
+## 2020-12-10
+
+### Changed
+
+-	Added a new question about testing status and results
+-	Added new care messages that correspond with testing status and results
+-	Added a new question about symptom severity
+-	Added a new care message for individuals who have been in close contact with someone with confirmed COVID-19
+-	Updated the 15 minute rule for close contact with COVID-19
+-	Revised Care Messages #5, #8, and #9 to include recommendations on safe practices like washing hands with soap and water
+-	Revised Care Message #6 to include additional information for healthcare workers
+-	Modified testing messages to recommend testing for asymptomatic individuals who have been exposed to COVID-19
+
+
 ## 2020-09-10
  
 ### Changed
