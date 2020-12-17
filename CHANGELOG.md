@@ -1,5 +1,14 @@
 # Changelog
 
+## 2020-12-17
+
+### Changed
+
+- Reintroduced headache (secondary symptom) in the list of COVID-19 adult symptoms
+-	Added a new care message for influenza considerations for symptomatic adults and children
+-	Updated the question about exposure with a broader definition of close contact
+-	Updated options to reduce quarantine for contacts of persons with SARS-CoV-2 for asymptomatic individuals
+
 ## 2020-12-10
 
 ### Changed
