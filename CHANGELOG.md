@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-12-23
+
+### Changed
+
+- Removed questions 32 and 33 on symptom severity
+
 ## 2020-12-17
 
 ### Changed
