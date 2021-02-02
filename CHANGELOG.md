@@ -1,5 +1,17 @@
 # Changelog
 
+## 2021-02-02
+
+### Changed
+
+- Updated testing and care advice for pediatric individuals (Age 2 to 17 years) with primary and secondary symptoms of COVID-19
+- Updated demographic questions: 
+ - Added new question on ZIP code
+ - Added two questions on race and ethnicity
+ - Revised gender identity question to be more inclusive 
+ - Added Down syndrome to the list of COVID-19 high-risk conditions for adults and children
+
+
 ## 2020-12-23
 
 ### Changed
