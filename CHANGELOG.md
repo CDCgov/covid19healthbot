@@ -1,5 +1,21 @@
 # Changelog
 
+
+## 2021-03-02
+
+### Changed
+
+Summary of changes:
+-	Simplified care and testing recommendation that highlight the most important information users need about COVID-19 care, risk, precautions, and testing.
+-	Introduced a new header at the top of the tool and a new endcap message that provides one clear reminder for users to do their part to reduce transmission and protect themselves by wearing a mask, washing hands often, and physically distancing of at least 6 feet.   
+-	Removed all third-person pronouns and instead only use the impersonal you for addressing the user. 
+-	Moved all CDC hyperlinks from being embedded text within each outcome message to the end of the assessment to ensure links are easily identifiable and easy to return to later.   
+-	Added a recommendation to isolate for 10 days until symptoms resolve in Care Message 28 (negative test result).
+-	Added a clause in the intro message for how to respond if answering for someone else 
+-	Updated logic following "only other symptoms" in Q7 and Q14. Applied current testing-based advice from version 64. 
+-	Classified rash as "new" in the pediatric list of symptoms
+
+
 ## 2021-02-02
 
 ### Changed
