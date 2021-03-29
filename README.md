@@ -16,7 +16,7 @@ Use of these algorithms and associated files does not imply a CDC endorsement of
 
 This list is subject to change. Pull requests are welcome from organizations with additional tools implementing CDC protocols that may be useful to capture here:
 
-* COVID-19 Protocol - protocol used with [CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). There are 5 scenarios - 2 wrappers and 3 core protocols, and 1 string table. The latest scenarios should only be used in English. The Non-English language scenarios contain the most update to date translations available, which might not be the most update to date algorithm version. As we receive translations for the latest algorithm version, the Non-English scenarios will be updated. 
+* COVID-19 Protocol - protocol used with [CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). There are 6 scenarios - 2 wrappers and 4 core protocols, and 1 string table. The latest scenarios should only be used in English. The Non-English language scenarios contain the most update to date translations available, which might not be the most update to date algorithm version. As we receive translations for the latest algorithm version, the Non-English scenarios will be updated. 
   * Latest Scenarios in English
     * [COVID-19 Core Adult Protocol](./screening_protocols/latest/covid_19_core_protocol.json) - definition file for the adult core COVID-19 protocol latest version in English
     * [COVID-19 Core Pediatric Protocol](./screening_protocols/latest/covid_19_core_pediatric_protocol.json) - definition file for the pediatric core COVID-19 protocol latest version in English
@@ -24,7 +24,8 @@ This list is subject to change. Pull requests are welcome from organizations wit
     * [COVID-19 Content and Messages](./screening_protocols/latest/covid_19_protocol_content_and_messages.pdf) - provides all content in the latest online tool for English. Includes all questions, logic, and provided messages. 
     * [COVID-19 Algorithm](./screening_protocols/latest/covid_19_protocol_algorithm.pdf) - provides a flowchart / logic diagram of the tool for the latest English scenarios.
   * Non-English Scenarios
-    * [COVID-19 Core Protocol Non-English](./screening_protocols/non-english/covid_19_core_protocol_non-english.json) - definition file for the core COVID-19 protocol latest version in other languages
+    * [COVID-19 Core Adult Protocol Non-English](././screening_protocols/non-english/covid_19_core_protocol_non-english.json) - definition file for the adult core COVID-19 protocol latest version in English
+    * [COVID-19 Core Pediatric Protocol Non-English](./screening_protocols/non-english/covid_19_core_pediatric_protocol_non-english.json) - definition file for the pediatric core COVID-19 protocol latest version in English
     * [COVID-19 CDC Wrapper Non-English](./screening_protocols/non-english/covid_19_cdc_wrapper_non-english.json) - definition file for the CDC specific questions, including disclaimer and US location for the latest version in other languages
     * [COVID-19 Content and Messages](./screening_protocols/non-english/covid_19_protocol_content_and_messages_non-english.pdf) - provides all content in the latest online tool for other languages. Includes all questions, logic, and provided messages. 
     * [COVID-19 Algorithm](./screening_protocols/non-english/covid_19_protocol_algorithm_non-english.pdf) - provides a flowchart / logic diagram of the tool for the other languages scenarios.
