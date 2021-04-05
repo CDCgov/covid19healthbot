@@ -1,5 +1,14 @@
 # Changelog
 
+## 2021-04-05
+
+Summary of changes: 
+- Reporting index bug-fixes
+    -Corrected a missing index (headache) in the covid symptoms and adjusted pediatric symptom and comorbidity index lookups.
+- Updated [Customization Wiki](https://github.com/CDCgov/covid19healthbot/wiki) to point out that only the reporting indexes in the Outcome blocks should be used for reporting.
+- updated version number in bot files to "66.3" and "66.3-ne" for english and non-english bot-files respectively.
+
+### Changed
 
 ## 2021-03-02
 
