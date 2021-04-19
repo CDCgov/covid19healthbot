@@ -1,14 +1,26 @@
 # Changelog
 
+## 2021-04-19
+
+### Changed
+
+Summary of changes:
+- Updated intro and endcap messages to include a recommendation to get a COVID-19 vaccine
+- Introduced new questions and care recommendations that address the short and long-term effects of COVID-19 and potential reinfection
+-	Expanded testing scenarios to account for testing within 10 days to 1 year
+-	Revised Care Messages 27, 28, and 30 to account for longer isolation periods for those with a weakened immune system
+-	Removed “vaping” from the medical conditions list
+
+
 ## 2021-04-05
+
+### Changed
 
 Summary of changes: 
 - Reporting index bug-fixes
     -Corrected a missing index (headache) in the covid symptoms and adjusted pediatric symptom and comorbidity index lookups.
 - Updated [Customization Wiki](https://github.com/CDCgov/covid19healthbot/wiki) to point out that only the reporting indexes in the Outcome blocks should be used for reporting.
 - updated version number in bot files to "66.3" and "66.3-ne" for english and non-english bot-files respectively.
-
-### Changed
 
 ## 2021-03-02
 
