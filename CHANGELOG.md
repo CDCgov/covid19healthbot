@@ -1,5 +1,15 @@
 # Changelog
 
+## 2021-06-01
+
+### Changed
+
+- Updated intro and endcap messages to align with current guidance for fully vaccinated people
+- Minor logic updates following a review of content
+- Updated the definition used for pregnancy
+- Revised answer choices in Q38
+
+
 ## 2021-04-19
 
 ### Changed
