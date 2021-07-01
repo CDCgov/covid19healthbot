@@ -1,5 +1,18 @@
 # Changelog
 
+## 2021-07-01
+
+### Changed
+
+-	Added a question about vaccine status and related recommendations for persons who may be experiencing COVID-19 symptoms or may have been exposed to COVID-19 after being fully vaccinated. 
+- Updated COVID-19 symptoms to include fatigue and nausea for adults and nausea for peds
+-	Expanded the definition used for dyspnea 
+-	Revised symptoms question to include a 10-day timeframe
+-	Revised Care Message 28 and added Care Message 217 to reflect the latest testing guidance for negative results
+-	Removed T50 (recommends being evaluated for influenza during flu season, December-May) from all symptomatic endpoint
+-	Modified the wording of Q31 and Q38
+
+
 ## 2021-06-01
 
 ### Changed
