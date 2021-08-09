@@ -1,5 +1,13 @@
 # Changelog
 
+## 2021-08-03
+
+### Changed
+
+ - Updated intro and endcap messages to match CDC's latest masking guidance
+ - Consilidated outcome of pediatric core pathway
+ - Added optional user experience questions to the end paths of all flows
+
 ## 2021-07-01
 
 ### Changed
