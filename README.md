@@ -23,6 +23,7 @@ This list is subject to change. Pull requests are welcome from organizations wit
     * [COVID-19 Core Asymptomatic Protocol](./screening_protocols/latest/covid_19_core_asymptomatic_protocol.json) - definition file for the asymptomatic core COVID-19 protocol latest version in English
     * [COVID-19 Core Vaccinated Protocol](./screening_protocols/latest/covid_19_core_vaccinated_protocol.json) - definition file for the vaccinated core COVID-19 protocol latest version in English
     * [COVID-19 CDC Wrapper](./screening_protocols/latest/covid_19_cdc_wrapper.json) - definition file for the CDC specific questions, including disclaimer and US location for the latest version in English
+    * [COVID-19 User Experience](./screening_protocols/latest/covid_19_user_experience.json) - definition file for the User Experience questions for the latest version in English
     * [COVID-19 Content and Messages](./screening_protocols/latest/covid_19_protocol_content_and_messages.pdf) - provides all content in the latest online tool for English. Includes all questions, logic, and provided messages. 
     * [COVID-19 Algorithm](./screening_protocols/latest/covid_19_protocol_algorithm.pdf) - provides a flowchart / logic diagram of the tool for the latest English scenarios.
   * Non-English Scenarios
