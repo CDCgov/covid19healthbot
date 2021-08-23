@@ -1,5 +1,11 @@
 # Changelog
 
+## 2021-08-16
+
+### Changed
+
+ - Updated messages in vaccinated pathway to match CDC's lates masking guidance
+
 ## 2021-08-03
 
 ### Changed
