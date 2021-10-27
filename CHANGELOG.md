@@ -1,5 +1,27 @@
 # Changelog
 
+## 2021-10-27
+
+### Changed
+
+ - Updated bot to refer to "Pfizer-BioNTech" and "Johnson & Johnson's Janssen".
+ - Added message T50 about flu season to all symptomatic endpoints.
+- Updated international scenarios to show regular messages and to also include MSG11.
+- Updated international scenarios to remove the use of T2.
+- Updated note in Q36, Q37, Q36-PED, Q37-PED, Q43 and Q44 to say, "ethnic and racial".
+- Updated life-threatening symptoms in Q1, Q1-PED and Q52.
+- Updated Q6, Q25, Q6-PED and Q25-PED to remove “– excluding people who have had COVID-19 within the past 3 months”.
+- Updated Q8, Q11, Q15, Q18, Q21, Q26, Q47, Q50, Q205 and Q211 to say “housing at an institution of higher education”
+- Updated comorbidities list for Q10, Q13, Q17, Q20, Q23, Q10-PED, Q13-PED, Q17-PED, Q20-PED, Q49.
+- Updated Q201 to say, “your most recent test”.
+- Updated symptoms list for Q203 and Q209.
+- Added Q53 to ask about testing status.
+- Expanded Vaccinated pathways to account for testing status.
+- Updated MSG11 to say, “Guidance provided is meant for U.S. and U.S. territory based users. Non-U.S. based users should check with their relevant public health agency in country (e.g., Ministry of Health, National Centers for Disease Control, sub-national public health offices) for additional information and guidelines about COVID-19 in their location.”
+- Fixed links that go state DOH sites for MH, MD, PR and WA.
+- Fixed issue with asymptomatic pathway not going back to wrapper.
+- Fixed issue with asymptomatic pathway not showing link to state DOH sites.
+
 ## 2021-08-16
 
 ### Changed
