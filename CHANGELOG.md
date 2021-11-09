@@ -1,5 +1,11 @@
 # Changelog
 
+## 2021-11-09
+
+### Changed
+
+- Updated intro and endcap message with pediatric vaccine recommendation to people 5 years and older.
+
 ## 2021-10-27
 
 ### Changed
