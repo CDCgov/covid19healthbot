@@ -16,10 +16,11 @@ Use of these algorithms and associated files does not imply a CDC endorsement of
 
 This list is subject to change. Pull requests are welcome from organizations with additional tools implementing CDC protocols that may be useful to capture here:
 
-* COVID-19 Protocol - protocol used with [CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). There are 6 scenarios - 2 wrappers and 4 core protocols, and 1 string table. The latest scenarios should only be used in English. The Non-English language scenarios contain the most update to date translations available, which might not be the most update to date algorithm version. As we receive translations for the latest algorithm version, the Non-English scenarios will be updated. 
+* COVID-19 Protocol - protocol used with [CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). There are 6 scenarios - 1 wrapper and 5 core protocols, and 1 string table. The latest scenarios should only be used in English. The Non-English language scenarios contain the most update to date translations available, which might not be the most update to date algorithm version. As we receive translations for the latest algorithm version, the Non-English scenarios will be updated. 
   * Latest Scenarios in English
     * [COVID-19 Core Adult Protocol](./screening_protocols/latest/covid_19_core_protocol.json) - definition file for the adult core COVID-19 protocol latest version in English
     * [COVID-19 Core Pediatric Protocol](./screening_protocols/latest/covid_19_core_pediatric_protocol.json) - definition file for the pediatric core COVID-19 protocol latest version in English
+    * [COVID-19 Core Pediatric Vaccinated Protocol](./screening_protocols/latest/covid_19_core_pediatric_vaccinated_protocol.json) - definition file for the pediatric vaccinated core COVID-19 protocol latest version in English
     * [COVID-19 Core Asymptomatic Protocol](./screening_protocols/latest/covid_19_core_asymptomatic_protocol.json) - definition file for the asymptomatic core COVID-19 protocol latest version in English
     * [COVID-19 Core Vaccinated Protocol](./screening_protocols/latest/covid_19_core_vaccinated_protocol.json) - definition file for the vaccinated core COVID-19 protocol latest version in English
     * [COVID-19 CDC Wrapper](./screening_protocols/latest/covid_19_cdc_wrapper.json) - definition file for the CDC specific questions, including disclaimer and US location for the latest version in English
