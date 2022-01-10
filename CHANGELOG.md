@@ -1,5 +1,18 @@
 # Changelog
 
+## 2022-01-10
+
+### Changed
+
+- Added a fully vaccinated pediatric pathway, reflecting an expanded access to vaccines for children.
+- Updated vaccinated and unvaccinated endcap to warn users of important pending updates, stating: “This tool is currently in the process of being updated to align with the latest quarantine and isolation guidance updates. For the most up-to-date recommendations on isolation and quarantine, please visit CDC’s Quarantine and Isolation page.”
+- Fixed formatting of endcap list of links to be in sentence case.
+- Updated references to only the Delta variant to reflect the pervasiveness of Omicron, to say “variants such as Delta and Omicron.”
+- Added Q38-PED (In the last 10 days, have you been tested for the coronavirus that causes COVID-19) to the unvaccinated pediatric pathway and updated the pathway to include responses that reflect whether the user tested positive, negative, has a test pending, or did not take a test.
+- Added MSG306 and MSG307 for pediatric users who tested positive.
+- Edited the age ranges for the vaccinated pathway to include children aged 5-9.
+- Removed references to MSG203, which contained outdated guidance regarding isolation and references to the Delta variant.
+
 ## 2021-11-09
 
 ### Changed
