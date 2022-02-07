@@ -29,6 +29,7 @@ This list is subject to change. Pull requests are welcome from organizations wit
   * Non-English Scenarios
     * [COVID-19 Core Adult Protocol Non-English](././screening_protocols/non-english/covid_19_core_protocol_non-english.json) - definition file for the adult core COVID-19 protocol latest version in other languages
     * [COVID-19 Core Pediatric Protocol Non-English](./screening_protocols/non-english/covid_19_core_pediatric_protocol_non-english.json) - definition file for the pediatric core COVID-19 protocol latest version in other languages
+    * [COVID-19 Core Pediatric Vaccinated Protocol Non-English](./screening_protocols/latest/covid_19_core_pediatric_vaccinated_protocol_non-english.json) - definition file for the pediatric vaccinated core COVID-19 protocol latest version in other languages
     * [COVID-19 Core Asymptomatic Protocol Non-English](./screening_protocols/non-english/covid_19_core_asymptomatic_protocol_non-english.json) - definition file for the asymptomatic core COVID-19 protocol latest version in other languages
     * [COVID-19 Core Vaccinated Protocol Non-English](./screening_protocols/non-english/covid_19_core_vaccinated_protocol_non-english.json) - definition file for the vaccinated core COVID-19 protocol latest version in other languages
     * [COVID-19 CDC Wrapper Non-English](./screening_protocols/non-english/covid_19_cdc_wrapper_non-english.json) - definition file for the CDC specific questions, including disclaimer and US location for the latest version in other languages
