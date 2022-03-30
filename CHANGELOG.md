@@ -1,5 +1,21 @@
 # Changelog
 
+## 2022-03-23
+
+### Changed
+
+-	Added Messages to reflect updated [Quarantine and Isolation](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fif-you-are-sick%2Fquarantine.html) Guidance. New messages are MSG308-MSG313 and testing messages T204-T207.
+-	Changed language in the bot and documentation referring to “full vaccination” to reflect the new “up to date” with vaccination language.
+-	Deleted a question regarding PPE usage because those users are already asked if they were exposed. Affects Former Q28.
+-	Deleted a question that asked pediatric users if they were in a group setting (redundant because users also indicate whether they were exposed). Affects former Q9-PED (Repeated at Q12-PED, Q16-PED, Q19-PED, Q27-PED, Q48-PED, Q51-PED)
+-	In prior versions of bot, there were separate pathways for some users depending on whether they were experiencing primary symptoms or only secondary symptoms, however users were already getting the same answers regardless because there is no longer a difference in guidance based on which symptoms one experiences. Version 72’s documentation condenses these pathways into simply “symptomatic” and “asymptomatic.” These changes are largely just to the documentation, since users already were not getting different answers based on which symptoms they had.
+-	Edited the endcap and intro language to reflect new community levels guidance.
+-	Updated the list of underlying medical conditions to reflect updated guidance. Added primary immunodeficiency, physical inactivity, and some disabilities (including Down syndrome).
+-	Minor language edits to MSG19, T102, Q201, Q19-PED.
+-	Updated the definition of “close contact” in accordance with guidance updates and removed some references to the term “exposure.”
+-	Removed housing at institutes of higher education from the list of congregate care settings to reflect that this group has been asked to follow general guidance. 
+
+
 ## 2022-01-10
 
 ### Changed
