@@ -1,5 +1,12 @@
 # Changelog
 
+## 2022-06-22
+
+### Changed
+
+- Changed language of Q39 to reflect recent changes to recommendations for pediatric COVID-19 vaccination. 
+- Added a pathway redirecting vaccinated users under 2 years old to seek appropriate care. 
+
 ## 2022-03-23
 
 ### Changed
