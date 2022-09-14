@@ -1,5 +1,19 @@
 # Changelog
 
+## 2022-09-12
+
+### Changed
+
+- Consolidated six scenarios down to three based mostly on vaccinated guidance
+- Deleted the Unvaccinated Pathways because there is no longer different guidance based on vaccination status. 
+- Added T208 and T209 to replace guidance for exposed individuals and remove references to differences in guidance based on vaccination status (replaced throughout). 
+- Edited the definition of exposure to reflect updated guidance.
+- Edited messages referencing quarantine to say “take extra precautions” rather than quarantine.
+- Updated links due to archiving of old pages and introduction of new pages. 
+- Removed references to “6 feet” guidance. 
+
+# Changelog
+
 ## 2022-06-22
 
 ### Changed
