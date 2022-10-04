@@ -1,5 +1,7 @@
 # CDC COVID-19 Health Bot
 
+### CDC is retiring the Coronavirus Self-Checker webpage on October 7, 2022. Refer to the [COVID-19 symptoms page](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) for information on when to seek COVID-19 testing and medical care.
+
 ***
 
 ## Overview
